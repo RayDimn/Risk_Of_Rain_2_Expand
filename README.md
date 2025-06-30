@@ -1,4 +1,5 @@
-## Code for the .CFG files
+## Recommended way to install the ModPack
+It is **highly recommended** that you install the ModPack by using the **Thunderstore code** below, that way you also get all the custom configs i made to ensure the best experience with all the Mods!
 
 | Thunderstore Code | 0197c21e-1821-93d8-f71a-241fd79763a7
 | -- | -- |
