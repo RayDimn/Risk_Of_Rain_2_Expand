@@ -32,4 +32,4 @@ The Modpack currently adds **10 new survivors** (including variants of others su
 
 ![Enemies](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/EnemiesBanner.gif)
 
-New enemies were also added to the mix also being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have been reworked to accommodate better gameplay as well a director update to mix the ways enemies and bosses spawn during your runs.
+New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have recieved a reworked to accommodate better gameplay as well a update for the director to mix the ways enemies and bosses spawn during your runs.
