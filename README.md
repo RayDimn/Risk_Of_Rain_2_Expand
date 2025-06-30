@@ -45,7 +45,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
   * Lynx Totem
   * Ancient Wisp
   * Archaic Wisp
-  * **and more**
+  * **And more...**
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
