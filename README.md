@@ -27,5 +27,5 @@ The modpack curently adds **10 new survivors** (including variants of others sur
   * Nemesis Commando
   * Nemesis Mercenary
   * Nemesis Enforcer
-    
+  <br>
 </details>
