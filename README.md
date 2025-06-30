@@ -24,6 +24,7 @@ The Modpack currently adds **10 new survivors** (including variants of others su
 
 * <details><summary><b>Secret survivors variants</b></summary>
 
+
   * Nemesis Commando
   * Nemesis Mercenary
   * Nemesis Enforcer
@@ -36,15 +37,15 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 * **List of new enemies**
 
-* Mechanical Spider
-* Lynx Shaman
-* Archer Bug
-* Spitter
-* Colossus
-* Ifrit
-* Lynx Totem
-* Ancient Wisp
-* Archaic Wisp
+  * Mechanical Spider
+  * Lynx Shaman
+  * Archer Bug
+  * Spitter
+  * Colossus
+  * Ifrit
+  * Lynx Totem
+  * Ancient Wisp
+  * Archaic Wisp
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
