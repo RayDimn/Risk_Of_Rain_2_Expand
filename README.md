@@ -1,5 +1,5 @@
 ## Recommended way to install the ModPack
-It is **highly recommended** that you install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**, that way is more ensured you also get all the custom configs i made to try to give the best experience with all the Mods!
+It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**, that way is more ensured you also get all the custom config files i tweaked to try to give the best experience with all the Mods!
 
 | Thunderstore Code | 0197c21e-1821-93d8-f71a-241fd79763a7
 | -- | -- |
@@ -7,6 +7,22 @@ It is **highly recommended** that you install the ModPack by using the **Thunder
 ![About](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/AboutBanner.png)
 
 **Risk Of Rain 2 Expand** is a Modpack created to serve as a expansion of the game, giving a variety of quality of life additions, bug fixes as well as overall new content to the game, all that while trying to stay true to the original core of the game.
+
+* **DISCLAIMER:** Most of the features of the Modpack can be tweaked or disable, all the changes that i have made for this Modpack were given by the mod options itself, so if there is something you would like to change/disable/enable it's possible. You just need to look for it!
+
+![Gameplay](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/GameplayBanner.png)
+
+Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are the following...
+
+## Survivors Changes
+Most of them were left untouched except for 3.
+
+  * **Commando** - Phase Round has been buffed to allow it to proc Bands.
+  * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
+  * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
+
+## Interactables
+All the interactables are now faster on use than the original game, **but they are not instant**.
 
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
