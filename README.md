@@ -20,12 +20,12 @@ The modpack curently adds **10 new survivors** (including variants of others sur
   * Sniper
   * Robomando
   * Executioner
-  * Chirr<br>
-
+  * Chirr
+<br><br>
 * <details><summary><b>Secret survivors variants</b></summary>
-  
+  <br><br>
   * Nemesis Commando
   * Nemesis Mercenary
-  * Nemesis Enforcer<br>
+  * Nemesis Enforcer
 
 </details>
