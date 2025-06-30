@@ -5,3 +5,5 @@ It is **highly recommended** that you install the ModPack by using the **Thunder
 | -- | -- |
 
 ![About](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/AboutBanner.png)
+
+**Risk Of Rain 2 Expand** is a Modpack created to serve as a extension of the game, giving a variety of quality of life additions, bug fixes as well as overall new content to the game, all that while trying to stay to the core of the original game.
