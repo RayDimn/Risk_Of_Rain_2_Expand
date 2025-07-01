@@ -23,7 +23,7 @@ Most of them were left untouched with the exception of 3.
   * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
----
+
 
 ## Interactables  
 **All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.  
@@ -34,7 +34,7 @@ Most of them were left untouched with the exception of 3.
 
 **Drop items:** You can now drop items from your inventory except for Lunar and Void items.  
 
----
+
 
 ## Multiplayer  
 You can now have up to 8 players in the game. (You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)  
@@ -43,7 +43,7 @@ You can now join people during a game. Typing `/list_survivors` in the game chat
 
 Survivors that join during a game will also receive items and level up.  
 
----
+
 
 ## Drones/Minions  
 Drones had their AI tweaked to be more reliable and aggressive, making them more useful in general.  
