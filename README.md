@@ -7,13 +7,13 @@ It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunder
 
 Although not necessary, it's also recommended that you own both DLC's.
 
-![About](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/AboutBanner.png)
+![About](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/AboutBanner.png)
 
 **Risk Of Rain 2 Expand** is a Modpack created to serve as a expansion of the game, giving a variety of quality of life additions, bug fixes as well as overall new content to the game, all that while trying to stay true to the original core of the game.
 
 * **DISCLAIMER:** Most of the features of the Modpack can be tweaked or disable, all the changes that i have made for this Modpack were given by the mod options itself, so if there is something you would like to change/disable/enable it's possible. You just need to look for it!
 
-![Gameplay](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/GameplayBanner.png)
+![Gameplay](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/GameplayBanner.png)
 
 Although many changes have been made, the core gameplay of the game it still largely the same with additions being made, they are some of the following...
 
@@ -69,7 +69,7 @@ There are way too many for me to list all of them, here are some notable ones...
 
 ---
 
-![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
+![Survivors](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/SurvivorsBanner.gif)
 
 The Modpack currently adds **10 new survivors** `(including variants of others survivors)` for the game, some of them being from the original **Risk Of Rain** and **Risk Of Rain Returns** as well as new additions from other mods.
 
@@ -91,7 +91,7 @@ The Modpack currently adds **10 new survivors** `(including variants of others s
 
 </details>
 
-![Enemies](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/EnemiesBanner.gif)
+![Enemies](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/EnemiesBanner.gif)
 
 New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have received a reworked to accommodate better gameplay as well as a update for the director to mix the ways enemies and bosses spawn during your runs adding more variety.
 
@@ -110,7 +110,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 The **Aurelionite** is now a proper boss fight, having a new set of attacks and different phases during the fight, it's harder but it also gives you different rewards and a bonus that lasts during the entire run after defeating it.
 
-![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
+![Items](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/ItemsBanner.gif)
 
 In total, the Modpack currently adds **100+ new items** to the item pool, with various rarity's including new ones.
 
@@ -128,7 +128,7 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
       
 **Elite Aspects** has been moved from the **Equipement Tier** to the **Boss / Planet Tier**.
 
-![Credits](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/CreditsBanner.png)
+![Credits](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/CreditsBanner.png)
 
 ## Special Thanks
 
