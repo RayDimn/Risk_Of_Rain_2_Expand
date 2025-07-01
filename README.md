@@ -29,9 +29,9 @@ Most of them were left untouched with the exception of 4.
 ## Interactables  
 **All the interactables** `(Scrappers, Printers, Shrines)` are now faster to use than the vanilla game, **but they are not instant**.  
 
-**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still be effective on the event and not be considered entirely useless).  
+**Teleporter Event** is now 15% faster. `(This change makes the lunar item **Focused Convergence** still be effective and not be considered entirely useless)`.  
 
-**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to its original rarity.  
+**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert back a void item to its original non-void version.  
 
 **Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.  
 
@@ -64,6 +64,7 @@ There are way too many for me to list all of them, here are some notable ones...
 - The teleporter now has a icon whenever it's found.
 - Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disableling the mod entirely on the mod list)`
 - Chests now become invisible after opening them.
+- leveling up now grants you some extra stats.
 
 ---
 
