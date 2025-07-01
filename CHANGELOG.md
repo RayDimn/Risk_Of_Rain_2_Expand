@@ -1,3 +1,6 @@
+`1.0.4`
+- Changed the order of presentation
+
 `1.0.3`
 - I just want the images fixed :(
 
