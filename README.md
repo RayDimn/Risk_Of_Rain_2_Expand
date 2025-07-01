@@ -4,6 +4,8 @@ It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunder
 | Thunderstore Code | 0197c21e-1821-93d8-f71a-241fd79763a7
 | -- | -- |
 
+Although not necessary, it's also recommended that you own both DLC's.
+
 ![About](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/AboutBanner.png)
 
 **Risk Of Rain 2 Expand** is a Modpack created to serve as a expansion of the game, giving a variety of quality of life additions, bug fixes as well as overall new content to the game, all that while trying to stay true to the original core of the game.
@@ -22,7 +24,19 @@ Most of them were left untouched except for 3.
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
 ## Interactables
-All the interactables are now faster on use than the original game, **but they are not instant**.
+**All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.
+**Teleporter Event** is now 15% faster. (this change makes the lunar item **Focused Convergence** still have a effect on it's time and not be entirely useless)
+**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to his original rarity.
+**Drop items:** You can now drop items from your inventory except for Lunar and Void items.
+
+## Multiplayer
+You can have now up to 8 players in the game. (you can change it up to 16 but the game gets very unstable **i don't recommend changing this**)
+You can now join people during a game, typing '/list_survivors' on the game chat will make a popup list with the avialiable survivors, to choose one you just need to press the 'scoreboard key' and click on the survivor you want to play.
+Survivors that joined during a game will also recieve items and level.
+
+## Drones/Minions
+Drones had their AI tweaked a bit to be more reliable and agreesive, making them more useful in general.
+Drones now also have a upgrade system were you can have up to 2 drones of the same type, getting another drone of the same type will upgrade the stats of one of the two, making it have double the damage, health,fire rate and skill cooldown.
 
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
