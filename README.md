@@ -71,7 +71,7 @@ The Modpack currently adds **10 new survivors** (including variants of others su
   * Sniper
   * Robomando
   * Executioner
-  * Chirr<br>
+  * Chirr
 
 * <details><summary><b>Secret survivors variants</b></summary><br>
 
