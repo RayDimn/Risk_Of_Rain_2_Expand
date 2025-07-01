@@ -126,122 +126,120 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 ## Mod Authors and their mods ( The real heroes in this )
 
-* bbepis [BepInExPack](https://thunderstore.io/package/bbepis/BepInExPack/)
-* 
-RiskofThunder-BepInEx_GUI-3.0.3
-RiskofThunder-RoR2BepInExPack-1.32.0
-RiskofThunder-FixPluginTypesSerialization-1.0.4
-Nebby-LoadingScreenSpriteFix-2.0.0
-pseudopulse-SeekersPatcher-1.3.8
-RiskofThunder-HookGenPatcher-1.2.9
-mattymatty-AsyncLoggers-2.1.4
-Owen3H-CSync-3.0.1
-RiskofThunder-R2API_Core-5.1.6
-RiskofThunder-R2API_Skins-1.2.1
-RiskofThunder-R2API_Addressables-1.0.4
-RiskofThunder-R2API_SceneAsset-1.1.2
-RiskofThunder-R2API_Elites-1.0.7
-RiskofThunder-R2API_Items-1.0.7
-RiskofThunder-R2API_Loadout-1.0.2
-RiskofThunder-R2API_Prefab-1.0.4
-RiskofThunder-R2API_Sound-1.0.3
-RiskofThunder-R2API_TempVisualEffect-1.0.3
-RiskofThunder-R2API_Unlockable-1.0.2
-RiskofThunder-R2API_Director-2.3.5
-RiskofThunder-R2API_ArtifactCode-1.0.1
-RiskofThunder-R2API_CommandHelper-1.0.2
-RiskofThunder-R2API_Deployable-1.0.1
-RiskofThunder-R2API_Dot-1.0.4
-RiskofThunder-R2API_Language-1.0.1
-RiskofThunder-R2API_LobbyConfig-1.0.1
-RiskofThunder-R2API_Orb-1.0.1
-RiskofThunder-R2API_Difficulty-1.1.2
-RiskofThunder-R2API_DamageType-1.1.7
-RiskofThunder-R2API_RecalculateStats-1.6.0
-RiskofThunder-R2API_Networking-1.0.3
-RiskofThunder-R2API_ContentManagement-1.0.10
-RiskofThunder-R2API_Colors-1.0.3
-RiskofThunder-R2API_Stages-1.0.3
-RiskofThunder-R2API_Rulebook-1.0.1
-RiskofThunder-R2API_StringSerializerExtensions-1.0.0
-RiskofThunder-R2API_ProcType-1.0.2
-RiskofThunder-R2API_Skills-1.0.2
-tristanmcpherson-R2API-5.0.5
-prodzpod-RealerMysticsRisky2Utils-2.0.21
-Bubbet-NetworkedTimedBuffs-1.0.3
-Smooth_Salad-ShaderSwapper-1.0.1
-JaceDaDorito-LocationsOfPrecipitation-1.1.2
-TeamMoonstorm-MoonstormSharedUtils-2.3.0
-Rune580-Risk_Of_Options-2.8.4
-IHarbHD-DebugToolkit-3.20.0
-score-MiscFixes-1.5.0
-KingEnderBrine-LobbySkinsFix-1.2.2
-KingEnderBrine-ScrollableLobbyUI-1.10.4
-itsschwer-ServerSider-1.6.2
-Moffein-TooManyFriends-1.2.5
-niwith-DropinMultiplayer-4.1.0
-DestroyedClone-DropInMultiplayer_GUI-1.0.1
-Moffein-TeammateRevival-4.2.1
-dan8991iel-LunarCoinShareOnPickup-4.2.1
-riskofresources-ItemDisplayRemoval-1.0.7
-Thrayonlosa-DropItem-2.2.1
-Flyingcomputer-Exchange_Changes-1.1.1
-Goorakh-LoopingSoundFix-1.1.1
-Goorakh-AudioOverlapFix-1.2.1
-Goorakh-AttackDirectionFix-1.2.3
-LordVGames-GildedChunkSpamFix-1.0.1
-McAwesome-NoFrameSkip-1.0.1
-Wolfo-WolfoQualityOfLife-4.2.5
-Wolfo-WolfoQoL_OptionalExtras-4.0.2
-Wolfo-LittleGameplayTweaks-3.6.2
-Wolfo-WolfFixes-1.1.10
-Wolfo-DLCSpawnPoolFixer-1.3.3
-Goorakh-PizzaSoundFix-1.0.0
-Goorakh-PizzaClientLagFix-1.3.2
-Goorakh-VFiX-1.0.5
-Jeffdev-HelminthTunnelSpeedFix-1.0.0
-kking117-AmbientSpite-1.0.0
-Moffein-FixGenesisLoopConsoleSpam-1.0.0
-DropPod-LookingGlass-1.12.0
-Goorakh-CollapseDisplay-1.3.6
-DestroyedClone-HealthbarImmune-1.0.3
-Dragonyck-InstantTeleporter-1.1.2
-Pipman3000-TeleporterShowRedux-1.0.4
-Faustvii-QoLChests-1.2.1
-Judgy-WaterTweaker-1.3.0
-viliger-ShrineOfRepair-2.0.1
-William758-LevelStats-1.1.1
-pseudopulse-BetterDrones-1.7.5
-score-MinionMeld-1.1.6
-duckduckgreyduck-GreenAlienHead-4.0.3
-MagnusMagnuson-BiggerBazaar-1.13.14
-TechDebtCollector-GoldenCoastPlus-1.3.0
-William758-ZetAspects-2.9.8
-TeamAugmentum-Augmentum-1.1.3
-Zenithrium-VanillaVoid-1.6.4
-Risky_Sleeps-ClassicItemsReturns-3.2.4
-TeamMoonstorm-Starstorm2-0.6.21
-Wolfo-VanillaArtifactsPlus-3.4.2
-Risky_Sleeps-EnemiesReturns-0.5.18
-viliger-RestoreGrandparentRock-1.0.0
-Moffein-Ancient_Wisp-1.6.10
-Moffein-Archaic_Wisp-1.1.6
-Wolfo-SimulacrumAdditions-2.4.1
-Moffein-EliteReworks-1.15.0
-score-DirectorReworkPlus-1.2.0
-TheTimesweeper-SurvivorSortOrder-1.1.2
-pseudopulse-Survariants-1.0.8
-Moffein-Heretic-1.2.9
-EnforcerGang-Enforcer-3.11.8
-EnforcerGang-HAND_OVERCLOCKED-1.5.1
-EnforcerGang-MinerUnearthed-1.10.0
-EnforcerGang-SniperClassic-2.0.3
-The_Bozos-RobomandoMod-1.0.13
-prodzpod-HuntressMomentum2-2.0.3
-Phreel-Phase_Round_Lightning-1.1.7
-Phys09-Captain_Beacon_Cooldown_and_Tweaks-1.0.1
-duckduckgreyduck-ArtificerExtended-4.0.18
-RiskOfBrainrot-JetHack-1.0.0
-RiskOfBrainrot-RainrotSUL-1.0.5
-prodzpod-RealerCheatUnlocks-1.0.4
-
+* bbepis - [BepInExPack](https://thunderstore.io/package/bbepis/BepInExPack/)
+* RiskofThunder - [BepInEx_GUI](https://thunderstore.io/package/RiskofThunder/BepInEx_GUI/)
+* RiskofThunder - [RoR2BepInExPack](https://thunderstore.io/package/RiskofThunder/RoR2BepInExPack/)
+* RiskofThunder - [FixPluginTypesSerialization](https://thunderstore.io/package/RiskofThunder/FixPluginTypesSerialization/)
+* Nebby - [LoadingScreenSpriteFix](https://thunderstore.io/package/Nebby/LoadingScreenSpriteFix/)
+* pseudopulse - [SeekersPatcher](https://thunderstore.io/package/pseudopulse/SeekersPatcher/)
+* RiskofThunder - [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/)
+* mattymatty - [AsyncLoggers](https://thunderstore.io/package/mattymatty/AsyncLoggers/)
+* Owen3H - [CSync-3.0.1](https://thunderstore.io/package/Owen3H/CSync/)
+* RiskofThunder - [R2API_Core](https://thunderstore.io/package/RiskofThunder/R2API_Core/)
+* RiskofThunder - [R2API_Skins](https://thunderstore.io/package/RiskofThunder/R2API_Skins/)
+* RiskofThunder - [R2API_Addressables](https://thunderstore.io/package/RiskofThunder/R2API_Addressables/)
+* RiskofThunder - [R2API_SceneAsset](https://thunderstore.io/package/RiskofThunder/R2API_SceneAsset/)
+* RiskofThunder - [R2API_Elites](https://thunderstore.io/package/RiskofThunder/R2API_Elites/)
+* RiskofThunder - [R2API_Items](https://thunderstore.io/package/RiskofThunder/R2API_Items/)
+* RiskofThunder - [R2API_Loadout](https://thunderstore.io/package/RiskofThunder/R2API_Loadout/)
+* RiskofThunder - [R2API_Prefab](https://thunderstore.io/package/RiskofThunder/R2API_Prefab/)
+* RiskofThunder - [R2API_Sound](https://thunderstore.io/package/RiskofThunder/R2API_Sound/)
+* RiskofThunder - [R2API_Sound](https://thunderstore.io/package/RiskofThunder/R2API_Sound/)
+* RiskofThunder - [R2API_TempVisualEffect](https://thunderstore.io/package/RiskofThunder/R2API_TempVisualEffect/)
+* RiskofThunder - [R2API_Unlockable](https://thunderstore.io/package/RiskofThunder/R2API_Unlockable/)
+* RiskofThunder - [R2API_Director](https://thunderstore.io/package/RiskofThunder/R2API_Director/)
+* RiskofThunder - [R2API_ArtifactCode](https://thunderstore.io/package/RiskofThunder/R2API_ArtifactCode/)
+* RiskofThunder - [R2API_CommandHelper](https://thunderstore.io/package/RiskofThunder/R2API_CommandHelper/)
+* RiskofThunder - [R2API_Deployable](https://thunderstore.io/package/RiskofThunder/R2API_Deployable/)
+* RiskofThunder - [R2API_Dot](https://thunderstore.io/package/RiskofThunder/R2API_Dot/)
+* RiskofThunder - [R2API_Language](https://thunderstore.io/package/RiskofThunder/R2API_Language/)
+* RiskofThunder - [R2API_LobbyConfig](https://thunderstore.io/package/RiskofThunder/R2API_LobbyConfig/)
+* RiskofThunder - [R2API_Orb](https://thunderstore.io/package/RiskofThunder/R2API_Orb/)
+* RiskofThunder - [R2API_Difficulty](https://thunderstore.io/package/RiskofThunder/R2API_Difficulty/)
+* RiskofThunder - [R2API_DamageType](https://thunderstore.io/package/RiskofThunder/R2API_DamageType/)
+* RiskofThunder - [R2API_RecalculateStats](https://thunderstore.io/package/RiskofThunder/R2API_RecalculateStats/)
+* RiskofThunder - [R2API_Networking](https://thunderstore.io/package/RiskofThunder/R2API_Networking/)
+* RiskofThunder - [R2API_ContentManagement](https://thunderstore.io/package/RiskofThunder/R2API_ContentManagement/)
+* RiskofThunder - [R2API_Colors](https://thunderstore.io/package/RiskofThunder/R2API_Colors/)
+* RiskofThunder - [R2API_Stages](https://thunderstore.io/package/RiskofThunder/R2API_Stages/)
+* RiskofThunder - [R2API_Rulebook](https://thunderstore.io/package/RiskofThunder/R2API_Rulebook/)
+* RiskofThunder - [R2API_StringSerializerExtensions](https://thunderstore.io/package/RiskofThunder/R2API_StringSerializerExtensions/)
+* RiskofThunder - [R2API_ProcType](https://thunderstore.io/package/RiskofThunder/R2API_ProcType/)
+* RiskofThunder - [R2API_Skills](https://thunderstore.io/package/RiskofThunder/R2API_Skills/)
+* tristanmcpherson - [R2API](https://thunderstore.io/package/tristanmcpherson/R2API/)
+* prodzpod - [RealerMysticsRisky2Utils](https://thunderstore.io/package/prodzpod/RealerMysticsRisky2Utils/)
+* Bubbet - [NetworkedTimedBuffs](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/)
+* Smooth_Salad - [ShaderSwapper](https://thunderstore.io/package/Smooth_Salad/ShaderSwapper/)
+* JaceDaDorito - [LocationsOfPrecipitation](https://thunderstore.io/package/JaceDaDorito/LocationsOfPrecipitation/)
+* TeamMoonstorm - [MoonstormSharedUtils](https://thunderstore.io/package/TeamMoonstorm/MoonstormSharedUtils/)
+* Rune580 - [Risk_Of_Options](https://thunderstore.io/package/Rune580/Risk_Of_Options/)
+* IHarbHD - [DebugToolkit](https://thunderstore.io/package/IHarbHD/DebugToolkit/)
+* score - [MiscFixes](https://thunderstore.io/package/score/MiscFixes/)
+* KingEnderBrine - [LobbySkinsFix](https://thunderstore.io/package/KingEnderBrine/LobbySkinsFix/)
+* KingEnderBrine - [ScrollableLobbyUI](https://thunderstore.io/package/KingEnderBrine/ScrollableLobbyUI/)
+* itsschwer - [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/)
+* Moffein - [TooManyFriends](https://thunderstore.io/package/Moffein/TooManyFriends/)
+* niwith - [DropinMultiplayer](https://thunderstore.io/package/niwith/DropinMultiplayer/)
+* DestroyedClone - [DropInMultiplayer_GUI](https://thunderstore.io/package/DestroyedClone/DropInMultiplayer_GUI/)
+* Moffein - [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
+* dan8991iel - [LunarCoinShareOnPickup](https://thunderstore.io/package/dan8991iel/LunarCoinShareOnPickup/)
+* riskofresources - [ItemDisplayRemoval](https://thunderstore.io/package/riskofresources/ItemDisplayRemoval/)
+* Thrayonlosa - [DropItem](https://thunderstore.io/package/Thrayonlosa/DropItem/)
+* Flyingcomputer - [Exchange_Changes](https://thunderstore.io/package/Flyingcomputer/Exchange_Changes/)
+* Goorakh - [LoopingSoundFix](https://thunderstore.io/package/Goorakh/LoopingSoundFix/)
+* Goorakh - [AudioOverlapFix](https://thunderstore.io/package/Goorakh/AudioOverlapFix/)
+* Goorakh - [AttackDirectionFix](https://thunderstore.io/package/Goorakh/AttackDirectionFix/)
+* LordVGames - [GildedChunkSpamFix](https://thunderstore.io/package/LordVGames/GildedChunkSpamFix/)
+* McAwesome - [NoFrameSkip](https://thunderstore.io/package/McAwesome/NoFrameSkip/)
+* Wolfo - [WolfoQualityOfLife](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
+* Wolfo - [WolfoQoL_OptionalExtras](https://thunderstore.io/package/Wolfo/WolfoQoL_OptionalExtras/)
+* Wolfo - [LittleGameplayTweaks](https://thunderstore.io/package/Wolfo/LittleGameplayTweaks/)
+* Wolfo - [WolfFixes](https://thunderstore.io/package/Wolfo/WolfFixes/)
+* Wolfo - [DLCSpawnPoolFixer](https://thunderstore.io/package/Wolfo/DLCSpawnPoolFixer/)
+* Goorakh - [PizzaSoundFix](https://thunderstore.io/package/Goorakh/PizzaSoundFix/)
+* Goorakh - [PizzaClientLagFix](https://thunderstore.io/package/Goorakh/PizzaClientLagFix/)
+* Goorakh - [VFiX](https://thunderstore.io/package/Goorakh/VFiX/)
+* Jeffdev - [HelminthTunnelSpeedFix](https://thunderstore.io/package/Jeffdev/HelminthTunnelSpeedFix/)
+* kking117 - [AmbientSpite](https://thunderstore.io/package/kking117/AmbientSpite/)
+* Moffein - [FixGenesisLoopConsoleSpam](https://thunderstore.io/package/Moffein/FixGenesisLoopConsoleSpam/)
+* DropPod - [LookingGlass](https://thunderstore.io/package/DropPod/LookingGlass/)
+* Goorakh - [CollapseDisplay](https://thunderstore.io/package/Goorakh/CollapseDisplay/)
+* DestroyedClone - [HealthbarImmune](https://thunderstore.io/package/DestroyedClone/HealthbarImmune/)
+* Dragonyck - [InstantTeleporter](https://thunderstore.io/package/Dragonyck/InstantTeleporter/)
+* Pipman3000 - [TeleporterShowRedux](https://thunderstore.io/package/Pipman3000/TeleporterShowRedux/)
+* Faustvii - [QoLChests](https://thunderstore.io/package/Faustvii/QoLChests/)
+* Judgy - [WaterTweaker](https://thunderstore.io/package/Judgy/WaterTweaker/)
+* viliger - [ShrineOfRepair](https://thunderstore.io/package/viliger/ShrineOfRepair/)
+* William758 - [LevelStats](https://thunderstore.io/package/William758/LevelStats/)
+* pseudopulse - [BetterDrones](https://thunderstore.io/package/pseudopulse/BetterDrones/)
+* score - [MinionMeld](https://thunderstore.io/package/score/MinionMeld/)
+* duckduckgreyduck - [GreenAlienHead](https://thunderstore.io/package/duckduckgreyduck/GreenAlienHead/)
+* MagnusMagnuson - [BiggerBazaar](https://thunderstore.io/package/MagnusMagnuson/BiggerBazaar/)
+* TechDebtCollector - [GoldenCoastPlus](https://thunderstore.io/package/TechDebtCollector/GoldenCoastPlus/)
+* William758 - [ZetAspects](https://thunderstore.io/package/William758/ZetAspects/)
+* TeamAugmentum - [Augmentum](https://thunderstore.io/package/TeamAugmentum/Augmentum/)
+* Zenithrium - [VanillaVoid](https://thunderstore.io/package/Zenithrium/VanillaVoid/)
+* Risky_Sleeps - [ClassicItemsReturns](https://thunderstore.io/package/Risky_Sleeps/ClassicItemsReturns/)
+* TeamMoonstorm - [Starstorm2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
+* Wolfo - [VanillaArtifactsPlus](https://thunderstore.io/package/Wolfo/VanillaArtifactsPlus/)
+* Risky_Sleeps - [EnemiesReturns](https://thunderstore.io/package/Risky_Sleeps/EnemiesReturns/)
+* viliger - [RestoreGrandparentRock](https://thunderstore.io/package/viliger/RestoreGrandparentRock/)
+* Moffein - [Ancient_Wisp](https://thunderstore.io/package/Moffein/Ancient_Wisp/)
+* Moffein - [Archaic_Wisp](https://thunderstore.io/package/Moffein/Archaic_Wisp/)
+* Wolfo - [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/)
+* Moffein - [EliteReworks](https://thunderstore.io/package/Moffein/EliteReworks/)
+* score - [DirectorReworkPlus](https://thunderstore.io/package/score/DirectorReworkPlus/)
+* TheTimesweeper - [SurvivorSortOrder](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/)
+* pseudopulse - [Survariants](https://thunderstore.io/package/pseudopulse/Survariants/)
+* Moffein - [Heretic](https://thunderstore.io/package/Moffein/Heretic/)
+* EnforcerGang - [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)
+* EnforcerGang - [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/)
+* EnforcerGang - [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)
+* EnforcerGang - [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)
+* The_Bozos - [RobomandoMod](https://thunderstore.io/package/The_Bozos/RobomandoMod/)
+* prodzpod - [HuntressMomentum2](https://thunderstore.io/package/prodzpod/HuntressMomentum2/)
+* Phreel - [Phase_Round_Lightning](https://thunderstore.io/package/Phreel/Phase_Round_Lightning/)
+* Phys09 - [Captain_Beacon_Cooldown_and_Tweaks](https://thunderstore.io/package/Phys09/Captain_Beacon_Cooldown_and_Tweaks/)
+* duckduckgreyduck - [ArtificerExtended](https://thunderstore.io/package/duckduckgreyduck/ArtificerExtended/)
+* RiskOfBrainrot - [JetHack](https://thunderstore.io/package/RiskOfBrainrot/JetHack/)
+* RiskOfBrainrot - [RainrotSUL](https://thunderstore.io/package/RiskOfBrainrot/RainrotSUL/)
