@@ -114,5 +114,5 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
   * 7 - Core
   * 10 - Highlander
       
-**NOTE:** Elite aspects has been moved from the **Equipement Tier** to the **Boss / Planet Tier** that is why there is more yellow items.
+**NOTE:** `Elite Aspects` has been moved from the **Equipement Tier** to the **Boss / Planet Tier** that is why there is more yellow items.
 
