@@ -57,7 +57,7 @@ Drones now also have an upgrade system:
 ## Quality of life / Bug Fixes
 There are way to many for me to list it, so just know that they are there :)
 
-
+---
 
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
