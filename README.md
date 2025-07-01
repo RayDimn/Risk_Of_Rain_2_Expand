@@ -4,7 +4,6 @@ It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunder
 | Thunderstore Code | 0197c5d9-7785-9e53-2e9f-c221ef2d257b
 | -- | -- |
 | Current amount of mods| 116
-| -- | -- |
 
 Although not necessary, it's also recommended that you own both DLC's.
 
