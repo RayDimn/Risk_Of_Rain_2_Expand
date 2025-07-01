@@ -23,20 +23,32 @@ Most of them were left untouched except for 3.
   * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
-## Interactables
-**All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.
-**Teleporter Event** is now 15% faster. (this change makes the lunar item **Focused Convergence** still have a effect on it's time and not be entirely useless)
-**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to his original rarity.
-**Drop items:** You can now drop items from your inventory except for Lunar and Void items.
+## Interactables  
+**All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.  
 
-## Multiplayer
-You can have now up to 8 players in the game. (you can change it up to 16 but the game gets very unstable **i don't recommend changing this**)
-You can now join people during a game, typing '/list_survivors' on the game chat will make a popup list with the avialiable survivors, to choose one you just need to press the 'scoreboard key' and click on the survivor you want to play.
-Survivors that joined during a game will also recieve items and level.
+**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still have an effect on its time and not be entirely useless).  
 
-## Drones/Minions
-Drones had their AI tweaked a bit to be more reliable and agreesive, making them more useful in general.
-Drones now also have a upgrade system were you can have up to 2 drones of the same type, getting another drone of the same type will upgrade the stats of one of the two, making it have double the damage, health,fire rate and skill cooldown.
+**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to its original rarity.  
+
+**Drop items:** You can now drop items from your inventory except for Lunar and Void items.  
+
+---
+
+## Multiplayer  
+You can now have up to 8 players in the game. (You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)  
+
+You can now join people during a game. Typing `/list_survivors` in the game chat will display a popup list of available survivors. To choose one, press the `scoreboard key` and click on the survivor you want to play.  
+
+Survivors that join during a game will also receive items and level up.  
+
+---
+
+## Drones/Minions  
+Drones had their AI tweaked to be more reliable and aggressive, making them more useful in general.  
+
+Drones now also have an upgrade system:  
+- You can have up to **2 drones of the same type**.  
+- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** (damage, health, fire rate, and skill cooldown).  
 
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
