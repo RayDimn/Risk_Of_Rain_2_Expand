@@ -132,7 +132,7 @@ There are way too many for me to list all of them, here are some notable ones...
 
 ## Special Thanks
 
-`Eternalnoob` and `ApparentReality` - Testing / Bug Finding / Tweak Suggestion
+`Enternalnoob` and `ApparentReality` - Testing / Bug Finding / Tweak Suggestion
 
 `B-Gab-K` - Help with the Modpack Logo and Banners design
 
