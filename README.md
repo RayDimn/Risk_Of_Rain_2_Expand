@@ -100,7 +100,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
-In total, the Modpack currently adds more than 100 new items to the item pool, with various raritys including new ones.
+In total, the Modpack currently adds **100+ new items** to the item pool, with various raritys including new ones.
 
 * **Amount of added items per rarity**
 
