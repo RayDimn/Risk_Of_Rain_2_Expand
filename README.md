@@ -102,19 +102,19 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 In total, the Modpack currently adds **100+ new items** to the item pool, with various raritys including new ones.
 
-* **Amount of added items by rarity**
+* **Amount of items added by tier**
 
   * 26 - Common
   * 24 - Uncommon
   * 17 - Legendary
-  * 15 - Boss / Planet
+  * 15 - Boss / Planet (including Elite Aspects)
   * 5 - Lunar
   * 12 - Void
   * 9 - Equipment
-  * 8 - Core
-  * 10 - Highlander
+  * 8 - Core (New Tier)
+  * 10 - Highlander (New Tier)
       
-**NOTE:** `Elite Aspects` has been moved from the **Equipement Tier** to the **Boss / Planet Tier** that is why there is more yellow items.
+`Elite Aspects` has been moved from the **Equipement Tier** to the **Boss / Planet Tier**.
 
 ![Credits](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/CreditsBanner.png)
 
@@ -122,11 +122,12 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 `Eternalnoob` and `ApparentReality` - Testing / Bug Finding / Tweak Suggestion
 
-`B-Gab-K` - Help with the Modpack Logo and Banners
+`B-Gab-K` - Help with the Modpack Logo and Banners design
 
 ## Mod Authors and their mods ( The real heroes in this )
 
-bbepis-BepInExPack-5.4.2120
+* bbepis [BepInExPack](https://thunderstore.io/package/bbepis/BepInExPack/)
+* 
 RiskofThunder-BepInEx_GUI-3.0.3
 RiskofThunder-RoR2BepInExPack-1.32.0
 RiskofThunder-FixPluginTypesSerialization-1.0.4
