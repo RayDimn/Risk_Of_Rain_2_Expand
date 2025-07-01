@@ -1,7 +1,7 @@
 ## Recommended way to install the ModPack
 It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**, that way is more ensured you also get all the custom config files i tweaked to try to give the best experience with all the Mods!
 
-| Thunderstore Code | 0197c21e-1821-93d8-f71a-241fd79763a7
+| Thunderstore Code | 0197c5d9-7785-9e53-2e9f-c221ef2d257b
 | -- | -- |
 
 Although not necessary, it's also recommended that you own both DLC's.
