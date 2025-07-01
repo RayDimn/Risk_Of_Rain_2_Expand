@@ -15,7 +15,7 @@ Although not necessary, it's also recommended that you own both DLC's.
 
 ![Gameplay](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/GameplayBanner.png)
 
-Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are some of the following...
+Although many changes have been made, the core gameplay of the game it still largely the same with additions being made, they are some of the following...
 
 ## Survivors Changes
 Most of them were left untouched with the exception of 4.
@@ -23,7 +23,7 @@ Most of them were left untouched with the exception of 4.
   * **Commando** - Phase Round has been buffed to allow it to proc Bands.
   * **Huntress** - Recieve a passive skill `(Huntress Momentum)` allowing her to rely less on crit items.
   * **Artificer** - Recieve 13 new skills
-  * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
+  * **Captain** - His beacons now are a rechargeable skill, having a cooldown of 60 seconds.
 
 
 
@@ -93,7 +93,7 @@ The Modpack currently adds **10 new survivors** `(including variants of others s
 
 ![Enemies](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/EnemiesBanner.gif)
 
-New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have recieved a reworked to accommodate better gameplay as well as a update for the director to mix the ways enemies and bosses spawn during your runs adding more variety.
+New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have received a reworked to accommodate better gameplay as well as a update for the director to mix the ways enemies and bosses spawn during your runs adding more variety.
 
 * **List of new enemies**
 
@@ -112,7 +112,7 @@ The **Aurelionite** is now a proper boss fight, having a new set of attacks and 
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
-In total, the Modpack currently adds **100+ new items** to the item pool, with various raritys including new ones.
+In total, the Modpack currently adds **100+ new items** to the item pool, with various rarity's including new ones.
 
 * **Amount of items added by tier**
 
