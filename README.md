@@ -102,7 +102,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 In total, the Modpack currently adds **100+ new items** to the item pool, with various raritys including new ones.
 
-* **Amount of added items per rarity**
+* **Amount of added items by rarity**
 
   * 26 Common
   * 24 Uncommon
@@ -111,7 +111,8 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
   * 5 Lunar
   * 12 Void
   * 9 Equipment
-  * 10 Highlander
   * 7 Core
+  * 10 Highlander
+      
+**NOTE:** Elite aspects has been moved from the **Equipement Tier** to the **Boss / Planet Tier** that is why there is more yellow items.
 
- 
