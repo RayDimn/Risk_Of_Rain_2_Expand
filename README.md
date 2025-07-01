@@ -14,7 +14,7 @@ Although not necessary, it's also recommended that you own both DLC's.
 
 ![Gameplay](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/GameplayBanner.png)
 
-Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are the following...
+Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are some of the following...
 
 ## Survivors Changes
 Most of them were left untouched with the exception of 4.
@@ -29,11 +29,11 @@ Most of them were left untouched with the exception of 4.
 ## Interactables  
 **All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.  
 
-**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still have an effect on it's time and not be entirely useless).  
+**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still be effective on the event and not be considered entirely useless).  
 
 **Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to its original rarity.  
 
-**Drop items:** You can now drop items from your inventory except for Lunar and Void items.  
+**Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.  
 
 
 
@@ -44,7 +44,7 @@ You can now join people during a game. Typing `/list_survivors` in the game chat
 
 Survivors that join during a game will also receive items and level up.
 
-You are now also able to revive teammates at any time, but at the cost of your own health.
+You can also revive teammates at any time now, but at the cost of your own health.
 
 
 
@@ -58,7 +58,12 @@ Drones now also have an upgrade system:
 
 
 ## Quality of life / Bug Fixes
-There are way too many for me to list it, so just know that they are there :)
+There are way too many for me to list all of them, here are some notable ones...
+
+- You now have a small status list below the objective panel.
+- The teleporter now has a icon whenever it's found.
+- Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disableling the mod entirely on the mod list)`
+- Chests now become invisible after opening them.
 
 ---
 
@@ -76,7 +81,7 @@ The Modpack currently adds **10 new survivors** (including variants of others su
   * Executioner
   * Chirr
 
-* <details><summary><b>Secret survivors variants</b></summary><br>
+* <details><summary><b>Secret survivors variants</b></summary>
 
   * Nemesis Commando
   * Nemesis Mercenary
