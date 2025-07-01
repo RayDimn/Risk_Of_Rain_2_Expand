@@ -104,15 +104,15 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 * **Amount of added items by rarity**
 
-  * 26 Common
-  * 24 Uncommon
-  * 17 Legendary
-  * 15 Boss / Planet
-  * 5 Lunar
-  * 12 Void
-  * 9 Equipment
-  * 7 Core
-  * 10 Highlander
+  * 26 - Common
+  * 24 - Uncommon
+  * 17 - Legendary
+  * 15 - Boss / Planet
+  * 5 - Lunar
+  * 12 - Void
+  * 9 - Equipment
+  * 7 - Core
+  * 10 - Highlander
       
 **NOTE:** Elite aspects has been moved from the **Equipement Tier** to the **Boss / Planet Tier** that is why there is more yellow items.
 
