@@ -13,62 +13,6 @@ Although not necessary, it's also recommended that you own both DLC's.
 
 * **DISCLAIMER:** Most of the features of the Modpack can be tweaked or disable, all the changes that i have made for this Modpack were given by the mod options itself, so if there is something you would like to change/disable/enable it's possible. You just need to look for it!
 
-![Gameplay](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/GameplayBanner.png)
-
-Although many changes have been made, the core gameplay of the game it still largely the same with additions being made, they are some of the following...
-
-## Survivors Changes
-Most of them were left untouched with the exception of 4.
-
-  * **Commando** - Phase Round has been buffed to allow it to proc Bands.
-  * **Huntress** - Recieve a passive skill `(Huntress Momentum)` allowing her to rely less on crit items.
-  * **Artificer** - Recieve 13 new skills
-  * **Captain** - His beacons now are a rechargeable skill, having a cooldown of 60 seconds.
-
-
-
-## Interactables  
-**All the interactables** `(Scrappers, Printers, Shrines)` are now faster to use than the vanilla game, **but they are not instant**.  
-
-**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert back a void item to its original non-void version.  
-
-**Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.  
-
-
-
-## Multiplayer  
-You can now have up to 8 players in the game. `(You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)` 
-
-You can now join people during a game. Typing `/list_survivors` in the game chat will display a popup list of available survivors. To choose one, press the `scoreboard key` and click on the survivor you want to play.  
-
-Survivors that join during a game will also receive items and level up.
-
-You can also revive teammates at any time now, but at the cost of your own health.
-
-
-
-## Drones/Minions  
-Drones had their AI tweaked to be more reliable and aggressive, making them more useful in general.  
-
-Drones now also have an upgrade system:  
-- You can have up to **2 drones of the same type**.  
-- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** `(damage, health, fire rate, and skill cooldown)`.  
-
-
-
-## Quality of life / Bug Fixes
-There are way too many for me to list all of them, here are some notable ones...
-
-- You now have a small status list below the objective panel.
-- Teleporter Event is now 15% faster. `(This change makes the lunar item **Focused Convergence** still be effective and not be considered entirely useless)`. 
-- The teleporter now has a icon whenever it's found.
-- Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disabling the mod entirely on the mod list)`
-- Chests now become invisible after opening them.
-- leveling up now grants you some extra stats.
-- **And many more...**
-
----
-
 ![Survivors](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/SurvivorsBanner.gif)
 
 The Modpack currently adds **10 new survivors** `(including variants of others survivors)` for the game, some of them being from the original **Risk Of Rain** and **Risk Of Rain Returns** as well as new additions from other mods.
@@ -127,6 +71,62 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
   * 10 - Highlander `(New Tier)`
       
 **Elite Aspects** has been moved from the **Equipement Tier** to the **Boss / Planet Tier**.
+
+![Gameplay](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/GameplayBanner.png)
+
+Although many changes have been made, the core gameplay of the game it still largely the same with additions being made, they are some of the following...
+
+## Survivors Changes
+Most of them were left untouched with the exception of 4.
+
+  * **Commando** - Phase Round has been buffed to allow it to proc Bands.
+  * **Huntress** - Recieve a passive skill `(Huntress Momentum)` allowing her to rely less on crit items.
+  * **Artificer** - Recieve 13 new skills
+  * **Captain** - His beacons now are a rechargeable skill, having a cooldown of 60 seconds.
+
+
+
+## Interactables  
+**All the interactables** `(Scrappers, Printers, Shrines)` are now faster to use than the vanilla game, **but they are not instant**.  
+
+**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert back a void item to its original non-void version.  
+
+**Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.  
+
+
+
+## Multiplayer  
+You can now have up to 8 players in the game. `(You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)` 
+
+You can now join people during a game. Typing `/list_survivors` in the game chat will display a popup list of available survivors. To choose one, press the `scoreboard key` and click on the survivor you want to play.  
+
+Survivors that join during a game will also receive items and level up.
+
+You can also revive teammates at any time now, but at the cost of your own health.
+
+
+
+## Drones/Minions  
+Drones had their AI tweaked to be more reliable and aggressive, making them more useful in general.  
+
+Drones now also have an upgrade system:  
+- You can have up to **2 drones of the same type**.  
+- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** `(damage, health, fire rate, and skill cooldown)`.  
+
+
+
+## Quality of life / Bug Fixes
+There are way too many for me to list all of them, here are some notable ones...
+
+- You now have a small status list below the objective panel.
+- Teleporter Event is now 15% faster. `(This change makes the lunar item **Focused Convergence** still be effective and not be considered entirely useless)`. 
+- The teleporter now has a icon whenever it's found.
+- Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disabling the mod entirely on the mod list)`
+- Chests now become invisible after opening them.
+- leveling up now grants you some extra stats.
+- **And many more...**
+
+---
 
 ![Credits](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/CreditsBanner.png)
 
