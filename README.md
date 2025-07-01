@@ -64,6 +64,7 @@ There are way too many for me to list all of them, here are some notable ones...
 - Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disabling the mod entirely on the mod list)`
 - Chests now become invisible after opening them.
 - leveling up now grants you some extra stats.
+- **And many more...**
 
 ---
 
