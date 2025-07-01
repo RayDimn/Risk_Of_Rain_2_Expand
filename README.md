@@ -20,14 +20,14 @@ Although many changes have been made, the core gameplay of the game it still lar
 Most of them were left untouched with the exception of 4.
 
   * **Commando** - Phase Round has been buffed to allow it to proc Bands.
-  * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
+  * **Huntress** - Recieve a passive skill `(Huntress Momentum)` allowing her to rely less on crit items.
   * **Artificer** - Recieve 13 new skills
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
 
 
 ## Interactables  
-**All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.  
+**All the interactables** `(Scrappers, Printers, Shrines)` are now faster to use than the vanilla game, **but they are not instant**.  
 
 **Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still be effective on the event and not be considered entirely useless).  
 
@@ -38,7 +38,7 @@ Most of them were left untouched with the exception of 4.
 
 
 ## Multiplayer  
-You can now have up to 8 players in the game. (You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)  
+You can now have up to 8 players in the game. `(You can change it up to 16, but the game gets very unstable. **I don't recommend changing this.**)` 
 
 You can now join people during a game. Typing `/list_survivors` in the game chat will display a popup list of available survivors. To choose one, press the `scoreboard key` and click on the survivor you want to play.  
 
@@ -53,7 +53,7 @@ Drones had their AI tweaked to be more reliable and aggressive, making them more
 
 Drones now also have an upgrade system:  
 - You can have up to **2 drones of the same type**.  
-- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** (damage, health, fire rate, and skill cooldown).  
+- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** `(damage, health, fire rate, and skill cooldown)`.  
 
 
 
@@ -69,7 +69,7 @@ There are way too many for me to list all of them, here are some notable ones...
 
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
-The Modpack currently adds **10 new survivors** (including variants of others survivors) for the game, some of them being from the original **Risk Of Rain** and **Risk Of Rain Returns** as well as new additions from other mods.
+The Modpack currently adds **10 new survivors** `(including variants of others survivors)` for the game, some of them being from the original **Risk Of Rain** and **Risk Of Rain Returns** as well as new additions from other mods.
 
 * **List of new survivors**
 
@@ -105,6 +105,8 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
   * Ancient Wisp
   * Archaic Wisp
   * **And more...**
+
+The **Aurelionite** is now a proper boss fight, having new set of attacks and diferent phases during the fight, but it also gives you different rewards and a bonus as well after defeating it.
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
