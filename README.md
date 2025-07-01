@@ -104,7 +104,7 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 * **Amount of added items by rarity**
 
-  * 26 - <span style="color:#4287f5;">Common</span>
+  * 26 - Common
   * 24 - Uncommon
   * 17 - Legendary
   * 15 - Boss / Planet
