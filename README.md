@@ -120,11 +120,11 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 ## Special Thanks
 
-Eternalnoob and ApparentReality - Testing / Bug Finding / Tweak Suggestion
+`Eternalnoob` and `ApparentReality` - Testing / Bug Finding / Tweak Suggestion
 
-B-Gab-K - Help with the Modpack logo and Banners
+`B-Gab-K` - Help with the Modpack Logo and Banners
 
-## Mod Authors and their mods ( The real heros in this )
+## Mod Authors and their mods ( The real heroes in this )
 
 bbepis-BepInExPack-5.4.2120
 RiskofThunder-BepInEx_GUI-3.0.3
