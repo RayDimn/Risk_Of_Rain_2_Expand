@@ -3,6 +3,8 @@ It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunder
 
 | Thunderstore Code | 0197c5d9-7785-9e53-2e9f-c221ef2d257b
 | -- | -- |
+| Current amount of mods| 116
+| -- | -- |
 
 Although not necessary, it's also recommended that you own both DLC's.
 
@@ -92,7 +94,7 @@ The Modpack currently adds **10 new survivors** `(including variants of others s
 
 ![Enemies](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/EnemiesBanner.gif)
 
-New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have recieved a reworked to accommodate better gameplay as well a update for the director to mix the ways enemies and bosses spawn during your runs.
+New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of Rain Returns**, the Elite Enemies also have recieved a reworked to accommodate better gameplay as well as a update for the director to mix the ways enemies and bosses spawn during your runs adding more variety.
 
 * **List of new enemies**
 
@@ -107,7 +109,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
   * Archaic Wisp
   * **And more...**
 
-The **Aurelionite** is now a proper boss fight, having new set of attacks and diferent phases during the fight, but it also gives you different rewards and a bonus as well after defeating it.
+The **Aurelionite** is now a proper boss fight, having a new set of attacks and different phases during the fight, it's harder but it also gives you different rewards and a bonus that lasts during the entire run after defeating it.
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
