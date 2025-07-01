@@ -52,6 +52,13 @@ Drones now also have an upgrade system:
 - You can have up to **2 drones of the same type**.  
 - Acquiring another drone of the same type upgrades one of the two, **doubling its stats** (damage, health, fire rate, and skill cooldown).  
 
+
+
+## Quality of life / Bug Fixes
+There are way to many for me to list it, so just know that they are there :)
+
+
+
 ![Survivors](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/SurvivorsBanner.gif)
 
 The Modpack currently adds **10 new survivors** (including variants of others survivors) for the game, some of them being from the original **Risk Of Rain** and **Risk Of Rain Returns** as well as new additions from other mods.
