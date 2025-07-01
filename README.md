@@ -55,7 +55,7 @@ Drones now also have an upgrade system:
 
 
 ## Quality of life / Bug Fixes
-There are way to many for me to list it, so just know that they are there :)
+There are way too many for me to list it, so just know that they are there :)
 
 ---
 
