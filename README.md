@@ -17,10 +17,11 @@ Although not necessary, it's also recommended that you own both DLC's.
 Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are the following...
 
 ## Survivors Changes
-Most of them were left untouched with the exception of 3.
+Most of them were left untouched with the exception of 4.
 
   * **Commando** - Phase Round has been buffed to allow it to proc Bands.
   * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
+  * **Artificer** - Recieve 13 new skills
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
 
@@ -41,7 +42,9 @@ You can now have up to 8 players in the game. (You can change it up to 16, but t
 
 You can now join people during a game. Typing `/list_survivors` in the game chat will display a popup list of available survivors. To choose one, press the `scoreboard key` and click on the survivor you want to play.  
 
-Survivors that join during a game will also receive items and level up.  
+Survivors that join during a game will also receive items and level up.
+
+You are now also able to revive teammates at any time, but at the cost of your own health.
 
 
 
@@ -124,7 +127,7 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
 
 `B-Gab-K` - Help with the Modpack Logo and Banners design
 
-## Mod Authors and their mods ( The real heroes in this )
+## Mod Authors and their mods ( The real heroes here )
 
 * bbepis - [BepInExPack](https://thunderstore.io/package/bbepis/BepInExPack/)
 * RiskofThunder - [BepInEx_GUI](https://thunderstore.io/package/RiskofThunder/BepInEx_GUI/)
