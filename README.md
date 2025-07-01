@@ -118,14 +118,14 @@ In total, the Modpack currently adds **100+ new items** to the item pool, with v
   * 26 - Common
   * 24 - Uncommon
   * 17 - Legendary
-  * 15 - Boss / Planet (including Elite Aspects)
+  * 15 - Boss / Planet `(including Elite Aspects)`
   * 5 - Lunar
   * 12 - Void
   * 9 - Equipment
-  * 8 - Core (New Tier)
-  * 10 - Highlander (New Tier)
+  * 8 - Core `(New Tier)`
+  * 10 - Highlander `(New Tier)`
       
-`Elite Aspects` has been moved from the **Equipement Tier** to the **Boss / Planet Tier**.
+**Elite Aspects** has been moved from the **Equipement Tier** to the **Boss / Planet Tier**.
 
 ![Credits](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/CreditsBanner.png)
 
