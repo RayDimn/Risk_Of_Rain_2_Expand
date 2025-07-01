@@ -1,5 +1,5 @@
 `1.0.5`
--Fixed a minor misspelling in the credits
+- Fixed a minor misspelling in the credits
 
 `1.0.4`
 - Changed the order of presentation
