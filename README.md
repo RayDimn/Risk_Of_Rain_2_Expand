@@ -17,16 +17,18 @@ Although not necessary, it's also recommended that you own both DLC's.
 Although many changes have been made, the core gameplay of the game it still largelly the same with additions being made, they are the following...
 
 ## Survivors Changes
-Most of them were left untouched except for 3.
+Most of them were left untouched with the exception of 3.
 
   * **Commando** - Phase Round has been buffed to allow it to proc Bands.
   * **Huntress** - Recieve a passive skill (Huntress Momentum) allowing her to rely less on crit items.
   * **Captain** - His beacons now are a rechargable skill, having a cooldown of 60 seconds.
 
+---
+
 ## Interactables  
 **All the interactables** (Scrappers, Printers, Shrines) are now faster to use than the vanilla game, **but they are not instant**.  
 
-**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still have an effect on its time and not be entirely useless).  
+**Teleporter Event** is now 15% faster. (This change makes the lunar item **Focused Convergence** still have an effect on it's time and not be entirely useless).  
 
 **Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert a void item to its original rarity.  
 
