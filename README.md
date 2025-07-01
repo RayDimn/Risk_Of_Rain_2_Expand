@@ -100,3 +100,18 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
 
 ![Items](https://github.com/RayDimn/Risk_Of_Rain_2_Expand/blob/main/Banners/ItemsBanner.gif)
 
+In total, the Modpack currently adds more than 100 new items to the item pool, with various raritys including new ones.
+
+* **Amount of added items per rarity**
+
+  * 26 Common
+  * 24 Uncommon
+  * 17 Legendary
+  * 15 Boss / Planet
+  * 5 Lunar
+  * 12 Void
+  * 9 Equipment
+  * 10 Highlander
+  * 7 Core
+
+ 
