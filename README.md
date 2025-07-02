@@ -1,7 +1,7 @@
 ## Alternative way to install the ModPack
 You can also install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**
 
-| Thunderstore Code | 0197c5d9-7785-9e53-2e9f-c221ef2d257b
+| Thunderstore Code | 0197cc5f-6f00-f56b-9f96-adafb5f6b9de
 | -- | -- |
 | Mod Counter | 115
 
@@ -118,7 +118,7 @@ You can also revive teammates at any time now, but at the cost of your own healt
   - You can exchange your lunar coins to regular coins up to 3 times.
   - Every player can only buy 3 items from the chests. `(doesn't matter the rarity of them)`
   - The chests also have a limited amount of items determined by their rarity. `(Common = 5, Uncommon = 3, Legendary = 2, Boss / Planet = 1)`
-  - You can still buy every lunar bud item in the
+  - You can still buy every lunar item in the shop, from the lunar buds.
 
 </details>
 
