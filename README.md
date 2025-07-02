@@ -1,15 +1,21 @@
-## Recommended way to install the ModPack
-It is **HIGHLY RECOMMENDED** that you install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**, that way is more ensured you also get all the custom config files i tweaked to try to give the best experience with all the Mods!
+## Alternative way to install the ModPack
+You can also install the ModPack by using the **Thunderstore code** below for the **Thunderstore Mod Manager**
 
 | Thunderstore Code | 0197c5d9-7785-9e53-2e9f-c221ef2d257b
 | -- | -- |
-| Current amount of mods| 116
+| Mod Counter | 115
 
 Although not necessary, it's also recommended that you own both DLC's.
 
+* <details><summary><b>Recommended mods to install alongside the Modpack (these are not included in the main pack)</b></summary>
+
+  * McAwesome - [NoFrameSkip](https://thunderstore.io/package/McAwesome/NoFrameSkip/) `(May Cause Multiplayer problems, but works great in singleplayer runs)`
+
+</details>
+
 ![About](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/AboutBanner.png)
 
-**Risk Of Rain 2 Expand** is a Modpack created to serve as a expansion of the game, giving a variety of quality of life additions, bug fixes as well as overall new content to the game, all that while trying to stay true to the original core of the game.
+**Risk Of Rain 2 Expand** is a Modpack created to work as a expansion for the game, giving a variety of quality of life additions, bug fixes, new mechanics as well as overall new content to the game, all while trying to stay true to the original core of the game.
 
 * **DISCLAIMER:** Most of the features of the Modpack can be tweaked or disable, all the changes that i have made for this Modpack were given by the mod options itself, so if there is something you would like to change/disable/enable it's possible. You just need to look for it!
 
@@ -50,7 +56,7 @@ New enemies were also added to the mix being from **Risk Of Rain** and **Risk Of
   * Lynx Totem
   * Ancient Wisp
   * Archaic Wisp
-  * **And more...**
+  * ***And more...***
 
 The **Aurelionite** is now a proper boss fight, having a new set of attacks and different phases during the fight, it's harder but it also gives you different rewards and a bonus that lasts during the entire run after defeating it.
 
@@ -81,7 +87,7 @@ Most of them were left untouched with the exception of 4.
 
   * **Commando** - Phase Round has been buffed to allow it to proc Bands.
   * **Huntress** - Recieve a passive skill `(Huntress Momentum)` allowing her to rely less on crit items.
-  * **Artificer** - Recieve 13 new skills
+  * **Artificer** - Recieve 13 new skills.
   * **Captain** - His beacons now are a rechargeable skill, having a cooldown of 60 seconds.
 
 
@@ -89,9 +95,11 @@ Most of them were left untouched with the exception of 4.
 ## Interactables  
 **All the interactables** `(Scrappers, Printers, Shrines)` are now faster to use than the vanilla game, **but they are not instant**.  
 
-**Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert back a void item to its original non-void version.  
+**NEW Shrine of Repair:** Allows you to repair one consumed/untiered item **or** revert back a void item to its original non-void version.  
+ 
+**Teleporter Event** is now 15% faster. `(This change makes the lunar item **Focused Convergence** still be effective and not be considered entirely useless)`
 
-**Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.  
+**Void Fields** are now a viable option to do during your runs, having the fog damage being reduced and the timer it takes to complete each Void Field Cell reduced. `(40s for the first 4 cells, 50s for the next 4 cells, 60s for the last cell)`
 
 
 
@@ -102,33 +110,44 @@ You can now join people during a game. Typing `/list_survivors` in the game chat
 
 Survivors that join during a game will also receive items and level up.
 
-You can also revive teammates at any time now, but at the cost of your own health.
+You can also revive teammates at any time now, but at the cost of your own health, so be careful.
 
+* <details><summary><b>Bazaar changes and balance</b></summary>
+
+  - Bazaar now spawns 6 chests that can be bought with coins.
+  - You can exchange your lunar coins to regular coins up to 3 times.
+  - Every player can only buy 3 items from the chests. `(doesn't matter the rarity of them)`
+  - The chests also have a limited amount of items determined by their rarity. `(Common = 5, Uncommon = 3, Legendary = 2, Boss / Planet = 1)`
+  - You can still buy every lunar bud item in the
+
+</details>
 
 
 ## Drones/Minions  
-Drones had their AI tweaked to be more reliable and aggressive, making them more useful in general.  
+Drones had their AI tweaked to be more reliable, making them more useful in general.  
 
 Drones now also have an upgrade system:  
 - You can have up to **2 drones of the same type**.  
-- Acquiring another drone of the same type upgrades one of the two, **doubling its stats** `(damage, health, fire rate, and skill cooldown)`.  
+- Acquiring another drone of the same type upgrades one of the two,  **enhancing its stats** `(damage +100%, health +100%, fire rate +10%, skill cooldown +50%)`. 
 
 
 
 ## Quality of life / Bug Fixes
 There are way too many for me to list all of them, here are some notable ones...
 
+- **Drop items:** You can now drop items from your inventory by clicking on them, except for Lunar and Void items.
 - You now have a small status list below the objective panel.
-- Teleporter Event is now 15% faster. `(This change makes the lunar item **Focused Convergence** still be effective and not be considered entirely useless)`. 
-- The teleporter now has a icon whenever it's found.
-- Items display have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be toggle back on again by disabling the mod entirely on the mod list)`
-- Chests now become invisible after opening them.
-- leveling up now grants you some extra stats.
-- **And many more...**
+- The teleporter will create a icon whenever it's found for all the players.
+- Items display in survivors have been disable, this boosts the FPS and fix issues with modded survivors with some items. `(Can be re-enable by disabling the mod entirely on the mod list)`
+- Chests now become invisible after being open.
+- leveling up now grants you some extra stats `(Movement speed +0.015, Attack speed +0.01, Health regen +0.1)`.
+- ***And many more...***
 
 ---
 
 ![Credits](https://raw.githubusercontent.com/RayDimn/Risk_Of_Rain_2_Expand/main/Banners/CreditsBanner.png)
+
+If you want to give feedback, suggestions or bug report from the Modpack, you can do at the [Risk Of Rain 2 Modding Discord](https://discord.gg/AcVhcv6e)
 
 ## Special Thanks
 
@@ -202,7 +221,6 @@ There are way too many for me to list all of them, here are some notable ones...
 * Goorakh - [AudioOverlapFix](https://thunderstore.io/package/Goorakh/AudioOverlapFix/)
 * Goorakh - [AttackDirectionFix](https://thunderstore.io/package/Goorakh/AttackDirectionFix/)
 * LordVGames - [GildedChunkSpamFix](https://thunderstore.io/package/LordVGames/GildedChunkSpamFix/)
-* McAwesome - [NoFrameSkip](https://thunderstore.io/package/McAwesome/NoFrameSkip/)
 * Wolfo - [WolfoQualityOfLife](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
 * Wolfo - [WolfoQoL_OptionalExtras](https://thunderstore.io/package/Wolfo/WolfoQoL_OptionalExtras/)
 * Wolfo - [LittleGameplayTweaks](https://thunderstore.io/package/Wolfo/LittleGameplayTweaks/)
